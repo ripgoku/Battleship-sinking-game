@@ -1,7 +1,7 @@
 # Battleship-sinking-game
 
 **INTRODUCTION**
-\nThis game was developed by a team of 3 for a project for my computer science studies. 
+\n\nThis game was developed by a team of 3 for a project for my computer science studies. 
 The project has already been submitted and assessed, therefore it will not be developed further.
 
 **INFORMATION**
